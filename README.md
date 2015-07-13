@@ -1,1 +1,2 @@
 # OpinionDynamics
+Lokale Meinungsdynamiken

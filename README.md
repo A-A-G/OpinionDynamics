@@ -1,2 +1,4 @@
 # OpinionDynamics
-Lokale Meinungsdynamiken
+Lokale Meinungsdynamiken - Simulationssoftware
+
+![Screenshot](opiniondynamicssimulator.png)

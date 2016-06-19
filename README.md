@@ -1,4 +1,4 @@
 # OpinionDynamics
-Lokale Meinungsdynamiken - Simulationssoftware
+Lokale Meinungsdynamiken - Simulationssoftware (java)
 
 ![Screenshot](opiniondynamicssimulator.png)
